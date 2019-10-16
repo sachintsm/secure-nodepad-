@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mypad++</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mypad++</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="uname">Username</string>
+    <string name="passsword">Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_my__notes">My_Notes</string>
+    <string name="myprofile">My profile</string>
+    <string name="john">John</string>
+    <string name="conpassword">Confirm password</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
